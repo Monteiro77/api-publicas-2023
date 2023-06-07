@@ -138,6 +138,7 @@ sistema.
   |[Victoria Gindre](https://github.com/vickr-g) | [ApiDog](https://dog.ceo/dog-api/) | [APiDog](https://github.com) |
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Daniela Lino](https://github.com/D4kii) | [The Rick and Morty API](https://rickandmortyapi.com) | [Rick and Morty Info](https://tangerine-souffle-385a22.netlify.app/) |
+  |[Vinícius Monteiro](https://github.com/monteiro77) | [The New York Times API](https://developer.nytimes.com/apis) | [New York Times](https://github.com/Monteiro77/New-York-Times) |
 
 
 </details>
